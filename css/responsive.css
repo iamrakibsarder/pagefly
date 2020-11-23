@@ -1,0 +1,183 @@
+@media (max-width: 1199px) {
+	.nav-item {
+    margin: 0 3px;
+}
+.tf-btn {
+    padding: 13px 5px !important;
+    font-size: 13px;
+}
+
+
+
+}
+
+@media (max-width: 991px) {
+
+.nav-item {
+    margin: 10px 0 !important;
+}
+.main-banner .banner-box {
+    padding: 5px;
+    height: 350px;
+}
+.main-banner .banner-box .b-text h5 {
+    font-size: 17px;
+}
+.partner .partner-box .com-text h5 {
+    font-size: 17px;
+}
+.growave-txt{
+	display: none;
+}
+.steps .count-steps .step-box h4 {
+    font-size: 20px;
+}
+.steps .count-steps .step-box h1 {
+    font-size: 75px;
+}
+.partner .title h1 {
+    font-size: 50px;
+    padding: 15px 0;
+}
+.banner .top-banner .other-t h1 {
+    font-size: 55px;
+}
+.banner .top-banner .title-p h1 {
+    font-size: 45px;
+}
+
+
+
+}
+
+@media (max-width: 767px) {
+	.banner .top-banner .title-p h1 {
+    padding: 15px 55px;
+}
+	.main-banner .banner-box {
+    margin: 20px 0;
+}
+.main-banner .banner-box .b-text h5 {
+    font-size: 22px;
+}
+.join .join-right {
+    text-align: center;
+    margin: 20px 0;
+}
+.join .join-left {
+    margin: 20px 0;
+}
+.partner .partner-box .com-logo {    
+	height: auto;
+}
+.partner .partner-box .com-text h5 {
+    font-size: 22px;
+}
+.partner .title h1 {
+    text-align: center;
+}
+.steps {
+    text-align: center;
+}
+.steps .count-steps .step-box {
+    padding: 0 60px;
+    margin: 20px 0;
+}
+footer {
+    text-align: center;
+}
+footer .footer-body .cl-area {
+    margin: 20px 0;
+}
+footer .footer-body {
+    padding: 30px 0;
+}
+
+
+
+}
+
+
+
+@media (max-width: 575px) {
+
+.navbar-brand img {
+    width: 70%;
+}
+.navbar-brand {
+    width: 75%;
+}
+.banner .top-banner {
+    padding: 90px 0 60px 0;
+}
+.banner .top-banner .other-t h1 {
+    font-size: 40px;
+}
+.banner .top-banner .other-t h3 {
+    color: #333;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.join {
+    padding: 25px 0;
+}
+.partner .title h1 {
+    font-size: 40px;
+}
+.steps h3 {
+    color: #333;
+    font-weight: 700;
+    font-size: 25px;
+}
+.steps .count-steps {
+    padding: 25px 0;
+}
+.steps .count-steps .step-box h4 {
+    font-size: 18px;
+}
+.steps .count-steps .step-box {
+    padding: 0 20px;
+}
+footer .rights p {
+    font-size: 10px;
+}
+
+
+
+
+
+}
+
+
+
+@media (max-width: 575px) {
+	.navbar-brand {
+    width: 70%;
+}
+.banner .top-banner .title-p h1 {
+    padding: 15px 55px;
+}
+.banner .top-banner .title-p h1 {
+    font-size: 40px;
+}
+.banner .top-banner .other-t h1 {
+    font-size: 35px;
+    text-align: center;
+    padding: 15px 0;
+}
+.join .join-right h5 {
+    font-size: 15px;
+}
+footer .footer-body .cl-area h4 {
+    font-size: 18px;
+}
+
+}
+
+
+
+
+
+
+

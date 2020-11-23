@@ -1,0 +1,328 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Poppins', sans-serif;
+}
+p{
+	margin-bottom: 0 !important;
+}
+
+/*Header Section CSS Start*/
+
+
+
+
+header{
+    padding: 20px 0;
+    background: white;
+}
+nav{}
+.navbar{
+    justify-content: center !important;
+    align-items: center !important;
+}
+.navbar-brand {}
+.navbar-brand img{
+    width: 50%;
+}
+.navbar-nav{
+    align-items: center;
+}
+.nav-item {
+    margin: 0 10px;
+}
+.nav-link {
+    color: #333 !important;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 0 5px!important;
+}
+.nav-link:hover{
+	color: #5f67ff !important;
+}
+.srch{
+}
+.srch i{
+	color: #5f67ff;
+	height: 35px;
+	width: 35px;
+	border: 1px solid #5f67ff;
+	line-height: 35px;
+	border-radius: 100%;
+	text-align: center;
+}
+.tf-btn{
+    background: #5f67ff;
+    padding: 13px 15px !important;
+    color: white !important;
+    border-radius: 5px;
+}
+.tf-btn:hover{
+	color: white !important;
+	background: #574acc;
+}
+
+
+
+
+/*Header Section CSS End*/
+
+
+
+/*Banner Section Start*/
+
+.banner{
+    padding: 50px 0;
+}
+.banner .top-banner {
+    padding: 120px 0 80px 0;
+}
+.banner .top-banner .title-p{
+    /* padding: 20px 60px; */
+}
+.banner .top-banner .title-p h1{
+	background: #5f67ff;
+	padding: 15px 125px;
+	display: inline-block;
+	color: white;
+	border-radius: 0 5px 5px 0;
+	font-size: 50px;
+	font-weight: 700;
+}
+.banner .top-banner .other-t{}
+.banner .top-banner .other-t h1{
+	color: #5f67ff;
+	font-size: 60px;
+	font-weight: 600;
+	padding: 30px 0;
+}
+.banner .top-banner .other-t h3{
+	color: #333;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.main-banner{}
+.main-banner .banner-box{
+    padding: 35px;
+    box-shadow: 5px 5px 10px 0px #ced5d8d1;
+    height: 400px;
+}
+.main-banner .banner-box .b-img {}
+.main-banner .banner-box .b-img img{}
+.main-banner .banner-box .b-text{
+    padding: 10px 0;
+}
+.main-banner .banner-box .b-text h5{
+    font-weight: 600;
+    color: #333;
+}
+.main-banner .banner-box .b-text p{
+    color: #666;
+}
+
+/*Banner Section End*/
+
+
+
+
+/*Join Section CSS Start*/
+
+.join{
+    padding: 50px 0;
+}
+.join .join-left{
+    padding: 40px;
+    box-shadow: 5px 5px 10px 0px #ced5d8d1;
+}
+.join .join-left img{}
+.join .join-right{
+    padding: 40px;
+    box-shadow: 5px 5px 10px 0px #ced5d8d1;
+}
+.join .join-right h3{
+    color: #5f67ff;
+    font-weight: 700;
+    font-size: 32px;
+}
+.join .join-right h5{
+    padding: 10px 0;
+    font-weight: 600;
+    color: #333;
+}
+.join .join-right p{
+    color: #666;
+}
+
+
+
+/*Join Section CSS Start*/
+
+
+/*Partners Section CSS Start*/
+
+.partner{
+	padding: 40px 0;
+}
+.partner .title{}
+.partner .title h1{
+	color: #5f67ff;
+	font-size: 60px;
+	font-weight: 600;
+	padding: 30px 0;
+	text-align: right;
+}
+.partner .partner-box{
+	padding: 35px 0px;
+}
+.partner .partner-box .com-logo{
+	box-shadow: 5px 5px 10px 0px #ced5d8d1;
+	padding: 30px 20px;
+	border-top: 5px solid #5f67ff;
+	height: 125px;
+}
+.partner .partner-box .com-logo img{}
+.partner .partner-box .com-text{
+    padding: 35px 0px;
+}
+.partner .partner-box .com-text h5{
+	font-weight: 600;
+    color: #333;
+}
+.partner .partner-box .com-text p{
+	color: #666;
+}
+.jlogo{
+	max-width: 17% !important;
+}
+.saleshunter,.i10, .i12{
+	max-width: 80% !important;
+}
+.loox{
+	max-width: 50% !important;
+}
+.carson,.ali-star,.wiser{
+	max-width: 85% !important;
+}
+.yotpo{
+	max-width: 25% !important;
+}
+.ss{
+	max-width: 70px !important;
+}
+.i13, .i14{
+	max-width: 60% !important;
+}
+.i18, .i17 , .i15{
+	max-width: 20% !important;
+}
+/*Partners Section CSS End*/
+
+
+/*Steps Section CSS Start*/
+
+
+.steps{
+	width: 100%;
+	padding: 40px 0 80px 0;
+}
+.steps h3{
+	color: #333;
+	font-weight: 700;
+	font-size: 30px;
+}
+.steps .count-steps{
+    padding: 50px 0;
+}
+.steps .count-steps .step-box{}
+.steps .count-steps .step-box h1{
+	color: #5f67ff;
+	font-size: 100px;
+	font-weight: 600;
+	margin: 0;
+}
+.steps .count-steps .step-box h4{
+	color: #333;
+	font-weight: 700;
+	padding: 10px 0;
+}
+.steps .count-steps .step-box p{
+	color: #666;
+}
+.steps button{
+	background: #5f67ff;
+    padding: 13px 15px !important;
+    color: white !important;
+    border-radius: 5px;
+    border:1px solid #5f67ff;
+    font-weight: 700;
+}
+.steps button:hover{
+	color: white !important;
+	background: #574acc;
+}
+.steps button:focus{
+	outline: none;
+}
+
+
+
+
+
+/*Steps Section CSS End*/
+
+
+/*Footer Section CSS Start*/
+
+footer{
+	background: #333;
+	color: #fff;
+}
+footer .footer-body{
+	padding: 65px 0;
+}
+footer .footer-body .cl-area{}
+footer .footer-body .cl-area h4{
+	color: #fff;
+	font-weight: 700;
+}
+footer .footer-body .cl-area ul{
+    padding: 0;
+}
+footer .footer-body .cl-area ul li{
+    list-style: none;
+    margin-top: 15px;
+}
+footer .footer-body .cl-area ul li a{
+    text-decoration: none;
+    color: white;
+}
+footer .lines{
+	height: 3px;
+	width: 90%;
+	background: white;
+	margin: 0 auto;
+}
+footer .rights{
+	text-align: center;
+    padding: 20px 0;
+}
+footer .rights p{
+	font-size: 13px;
+}
+
+/*Footer Section CSS End*/
+
+
+
+
+
